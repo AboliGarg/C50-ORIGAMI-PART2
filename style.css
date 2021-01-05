@@ -1,0 +1,23 @@
+p {
+    color: rgb(221, 14, 66)
+}
+
+* {
+    background-color: rgb(255, 208, 0);
+}
+
+h2 {
+    background-color: coral;
+}
+
+.flex-container {
+    display: flex;
+    background-color: rgb(255, 30, 244);
+}
+
+.flex-container>div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
